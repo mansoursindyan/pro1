@@ -130,6 +130,7 @@ public class MyTestcases extends myData {
 		
 		
 	}
+	 String myname = "mansour";
 	
 	@Test (priority = 4)
 	 public void AddItemToThecart() {

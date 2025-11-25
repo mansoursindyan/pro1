@@ -6,6 +6,8 @@ public class myData {
 	
 	Random rand = new Random();
 	
+	String myname = "mansour";
+	
 	String [] firstNames = {"Mansour","Ali","Moss","CR7ss","Leoss"};
 	
 	String [] lastNames = {"siss","Aliss","Moaa","CR7sd","Leosd"};
@@ -45,6 +47,7 @@ public class myData {
 	String ExpectedTextForTheSignUp = "YOUR ACCOUNT HAS BEEN CREATED!";
 	
 	String Welcomemessage = "Welcome back"+TheFirstName;
+	
 
 
 
